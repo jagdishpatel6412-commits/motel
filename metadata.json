@@ -1,0 +1,6 @@
+{
+  "name": "The Pinecrest Motel & Suites",
+  "description": "A modern, premium, conversion-focused direct booking website for The Pinecrest Motel & Suites, featuring real-time room availability, direct reservations, local area guide, interactive gallery, and guest concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
